@@ -5,19 +5,41 @@ body {
     margin-top: -65px;
     border-radius: 0; 
     background-color: #2980b9;
+    height: 70px;
+    padding: 10px;
+    font-size: 18px;
     
 }
 
-.jumbotron-midnight{
+.navbar-brand{
+    font-size: 25px;
+}
+
+.jumbotron-intro{
     
         background-color: #34495e;
-        color: #1abc9c;
-
+        color: #1abc9c;  
+    margin-top: -10px;
 }
 
 .web-intro{        
     margin-top: 50px;
 }
+
+.showcase-item {
+    
+    height: 220px;
+    padding: 2px;
+    margin-left: 100px;
+}
+
+.showcase-item .showcase-item-box{
+    padding: 20px;
+    height: 100%;
+    widows: 100%;
+    text-align: center;
+}
+
 
 .text-centered {text-align: center;}
 .no-margin{margin: 0;}
