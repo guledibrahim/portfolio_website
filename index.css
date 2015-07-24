@@ -3,34 +3,38 @@ background-color:#34495e;
 }
 
 .navbar {
-margin-top:-65px;
 border-radius:0;
-background-color:#2980b9;
-height:70px;
-font-size:18px;
-padding:10px;
+    background-color: #34495e;
 }
 
 .navbar-brand {
 font-size:25px;
 }
 
+section{
+    padding-top: 78px;
+    
+}
+
 .jumbotron-intro {
 background-color:#34495e;
-color:#1abc9c;
+color:white;
 margin-top:-10px;
 }
 
 .web-intro {
 margin-top:100px;
 }
-.rocketimg img{
-    width: 1000px;
+.portfolio{
+    margin-top: -20px;
 }
 
 
+
 .jumbotron-inter {
-background-color:grey;
+background-color:#3498db;
+    color: white;
+    padding 40px;
 }
 
 .showcase-item {
@@ -57,5 +61,4 @@ margin:0;
 @media max-width 767px{
 .jumbrotron h1 {
 font-size:31px;
-}
-}
+}  
