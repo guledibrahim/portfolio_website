@@ -19,11 +19,15 @@ body {
     
         background-color: #34495e;
         color: #1abc9c;  
-    margin-top: -10px;
+        margin-top: -10px;
 }
 
 .web-intro{        
     margin-top: 50px;
+}
+
+.jumbotron-inter{
+    background-color: grey
 }
 
 .showcase-item {
@@ -48,4 +52,3 @@ body {
     .jumbrotron h1{
         font-size: 31px;
     }
-}
