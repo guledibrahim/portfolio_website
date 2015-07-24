@@ -1,0 +1,29 @@
+body {
+    background-color: #34495e;
+}
+.navbar{
+    margin-top: -65px;
+    border-radius: 0; 
+    background-color: #2980b9;
+    
+}
+
+.jumbotron-midnight{
+    
+        background-color: #34495e;
+        color: #1abc9c;
+
+}
+
+.web-intro{        
+    margin-top: 50px;
+}
+
+.text-centered {text-align: center;}
+.no-margin{margin: 0;}
+
+@media (max-width 767px){
+    .jumbrotron h1{
+        font-size: 31px;
+    }
+}
