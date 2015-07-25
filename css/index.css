@@ -1,0 +1,148 @@
+body {
+    background: #004358;
+    color: white;
+}
+section {
+    padding: 50px;
+}
+.text-centered {
+    text-align: center;
+}
+.no-margin {
+    margin: 0;
+}
+.navbar {
+    border-radius: 0;
+}
+.jumbotron-intro {
+    color: white;
+    /*background: url(/portfolio_website/img/unsplash_5243a2eb2bc02_1.JPG) no-repeat center center fixed;
+    background-size: cover;*/
+    
+    background: #004358;
+}
+.jumbotron-intro h2 {
+    padding-bottom: 50px;
+    padding-top: 10px;
+    margin-top: -50px;
+}
+.jumbotron-intro img {
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+.jumbotron-intro p {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.jumbotron-port h2 {
+    margin-top: -100px;
+    padding-bottom: 70px;
+    color:
+}
+.jumbotron-about-me {
+    background-color: #004358;
+}
+.jumbotron-about-me h3 {
+    padding-bottom: 20px;
+}
+.btn {
+    margin-bottom: -10px;
+}
+.jumbotron-contact-me h3{
+    padding-bottom: 20px;
+}
+.showcase-item-box img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 60px;
+}
+showcase-item {
+    padding-bottom: 10px;
+    height: 100px;
+}
+.showcase-item .showcase-item-box {
+    background: #7f8c8d;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.jumbotron-port h3 {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.navbar-default {
+    background-color: #004358;
+    border-color: #34495e;
+    margin-bottom: -10px;
+    border-radius: 0px;
+}
+.navbar-default .navbar-brand {
+    color: #ecf0f1;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    font-size: 25pt;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #1abc9c;
+}
+.navbar-default .navbar-text {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ecf0f1;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: -50px;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #1abc9c;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #3b94a3;
+    background-color: #34495e;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #3b94a3;
+    background-color: #34495e;
+}
+.navbar-default .navbar-toggle {
+    border-color: #34495e;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #34495e;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+    color: #1abc9c;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ecf0f1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #3b94a3;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #3b94a3;
+        background-color: #34495e;
+    }
+}
