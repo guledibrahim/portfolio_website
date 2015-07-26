@@ -45,9 +45,6 @@ section {
 .jumbotron-about-me h3 {
     padding-bottom: 20px;
 }
-.btn {
-    margin-bottom: -10px;
-}
 .jumbotron-contact-me h3{
     padding-bottom: 20px;
 }
@@ -69,6 +66,12 @@ showcase-item {
 .jumbotron-port h3 {
     padding-top: 50px;
     padding-bottom: 10px;
+}
+input[type=text]{
+    margin-bottom: 10px;
+}
+.btn{
+    margin-top: 20px;
 }
 .navbar-default {
     background-color: #004358;
